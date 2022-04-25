@@ -9,7 +9,7 @@ Javascript is used for the development of this project and Webdriver.io as an au
 
 ## Test Report
 
-It uses Cucumber plugin `pretty` to produce an HTML report called `cucumber-report.html` in the `target` folder.
+It uses HTML report plugin to produce an HTML report called `HTML Reporter` in the `reports` folder.
 Also, it generates a report for each test run.
 
 ## Test Runner
